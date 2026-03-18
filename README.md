@@ -18,6 +18,14 @@ Main notebook:
 
 - `Ware_house_sales_Data_Analysis_with_Machine_learning.ipynb`
 
+## Project Structure
+
+```text
+Ware-house-sales-Data-Analysis-with-Machine-learning/
+|- README.md
+`- Ware_house_sales_Data_Analysis_with_Machine_learning.ipynb
+```
+
 ## Dataset
 
 Expected input file used in the notebook:
